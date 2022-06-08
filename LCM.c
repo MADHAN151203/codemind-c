@@ -17,6 +17,5 @@ temp1=x;
 
 gcd=temp1;
 lcm=(num1*num2)/gcd;
-printf("%d
-",lcm);
+printf("%d",lcm);
 }
